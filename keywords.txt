@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map ESC
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ESC	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+attach	KEYWORD2
+detach	KEYWORD2
+write KEYWORD2
+attached	KEYWORD2
+writeMicroseconds	KEYWORD2
+arm  KEYWORD2
+disarm	KEYWORD2
+isArmed	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
